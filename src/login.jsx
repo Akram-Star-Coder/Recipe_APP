@@ -10,16 +10,11 @@ const Login = () => {
     return (
     <div className='Login'>
         <div className="k">
-            <div className="itemInpu">
-                <input type="text" placeholder='Username' />
-            </div>
-            <div className="itemInpu">
-                <input type="password" placeholder='Password'  />
-            </div>
+           
             <button
             onClick={()=>{navigate("/profile/89421")}}
             >
-            Sign In
+            Click Here
         </button>
         </div>
     </div>
