@@ -15,7 +15,7 @@ const MessageArea = () => {
           <i className='fa-solid fa-arrow-left'></i>
         </button>
         <img  onClick={()=>{navigatorX('/profile/main/89421')}} src="https://media.istockphoto.com/id/639583954/photo/making-a-healthy-meal-from-scratch.jpg?s=612x612&w=0&k=20&c=5QgRRTia0WRXpKF_7RqvpfLvxLw8MLlR0ltaIWfsGHI=" alt="" />
-        <span  onClick={()=>{navigatorX('/profile/main/89421')}} >Jack Nickelson</span>
+        <span  onClick={()=>{navigatorX('/profile/main/89421')}} >Zack Creig</span>
       </div>
       <div className="caseMsg2">
 
