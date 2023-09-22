@@ -13,7 +13,7 @@ const ProfileMain = () => {
   return (
     <>
     <div onClick={()=>{setIsClicked(false);}} className={isPicturClicked ? "pictureClicked pictureB" : "pictureB"}>
-      <img src="https://hips.hearstapps.com/hmg-prod/images/you-wont-make-a-difference-by-being-like-everyone-royalty-free-image-1674587779.jpg" alt="" />
+      <img src="https://s.yimg.com/ny/api/res/1.2/rtlxONikd789oWzhHomDiw--/YXBwaWQ9aGlnaGxhbmRlcjtoPTY2Ng--/https://s.yimg.com/os/creatr-uploaded-images/2023-01/862d2610-9843-11ed-bd29-8797d80abddc" alt="" />
     </div>
     <div className='ProfileMain'>
       <div className="caseProfile">
@@ -21,7 +21,7 @@ const ProfileMain = () => {
           <i className='fa-solid fa-arrow-left'></i>
         </div>
         <div onClick={()=>{setIsClicked(true)}} className="image">
-          <img src="https://hips.hearstapps.com/hmg-prod/images/you-wont-make-a-difference-by-being-like-everyone-royalty-free-image-1674587779.jpg" alt="PROFILEpICTURE" />
+          <img src="https://s.yimg.com/ny/api/res/1.2/rtlxONikd789oWzhHomDiw--/YXBwaWQ9aGlnaGxhbmRlcjtoPTY2Ng--/https://s.yimg.com/os/creatr-uploaded-images/2023-01/862d2610-9843-11ed-bd29-8797d80abddc" alt="PROFILEpICTURE" />
         </div>
        
         <div className="infos">
