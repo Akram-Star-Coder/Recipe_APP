@@ -5,7 +5,7 @@ import { useNavigate } from 'react-router-dom';
 
 const Profile = () => {
 
-  const Link = 'https://hips.hearstapps.com/hmg-prod/images/you-wont-make-a-difference-by-being-like-everyone-royalty-free-image-1674587779.jpg';
+  const Link = 'https://s.yimg.com/ny/api/res/1.2/rtlxONikd789oWzhHomDiw--/YXBwaWQ9aGlnaGxhbmRlcjtoPTY2Ng--/https://s.yimg.com/os/creatr-uploaded-images/2023-01/862d2610-9843-11ed-bd29-8797d80abddc';
   const navigate=useNavigate();
   const [popular, setPopular] = useState(true);
   const [breakfast, setBreakfast] = useState(false);
