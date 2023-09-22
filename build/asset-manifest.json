@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2ec3a9a.css",
+    "main.js": "/static/js/main.07673464.js",
+    "static/media/laza.jpg": "/static/media/laza.0ab615e99361cdcc1ab8.jpg",
+    "index.html": "/index.html",
+    "main.b2ec3a9a.css.map": "/static/css/main.b2ec3a9a.css.map",
+    "main.07673464.js.map": "/static/js/main.07673464.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2ec3a9a.css",
+    "static/js/main.07673464.js"
+  ]
+}
